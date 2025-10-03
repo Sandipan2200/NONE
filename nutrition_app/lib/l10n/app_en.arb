@@ -1,0 +1,158 @@
+{
+    "@@locale": "en",
+    
+    "appTitle": "Nutrition App",
+    "@appTitle": {
+        "description": "The title of the application"
+    },
+    
+    "dailyTracker": "Daily Tracker",
+    "@dailyTracker": {
+        "description": "Title for the daily tracking screen"
+    },
+    
+    "profile": "Profile",
+    "@profile": {
+        "description": "Title for the profile screen"
+    },
+    
+    "settings": "Settings",
+    "@settings": {
+        "description": "Title for the settings screen"
+    },
+    
+    "addFood": "Add Food",
+    "@addFood": {
+        "description": "Title for the add food screen"
+    },
+    
+    "calories": "Calories",
+    "@calories": {
+        "description": "Label for calories"
+    },
+    
+    "protein": "Protein",
+    "@protein": {
+        "description": "Label for protein"
+    },
+    
+    "carbs": "Carbs",
+    "@carbs": {
+        "description": "Label for carbohydrates"
+    },
+    
+    "fat": "Fat",
+    "@fat": {
+        "description": "Label for fat"
+    },
+    
+    "todaysProgress": "Today's Progress",
+    "@todaysProgress": {
+        "description": "Label for today's progress section"
+    },
+    
+    "languageSettings": "Language Settings",
+    "@languageSettings": {
+        "description": "Title for language settings"
+    },
+    
+    "selectLanguage": "Select Language",
+    "@selectLanguage": {
+        "description": "Label for language selection"
+    },
+    
+    "english": "English",
+    "@english": {
+        "description": "Name of English language"
+    },
+    
+    "hindi": "Hindi",
+    "@hindi": {
+        "description": "Name of Hindi language"
+    },
+    
+    "tamil": "Tamil",
+    "@tamil": {
+        "description": "Name of Tamil language"
+    },
+    
+    "telugu": "Telugu",
+    "@telugu": {
+        "description": "Name of Telugu language"
+    },
+    
+    "mealTypes": "Meal Types",
+    "@mealTypes": {
+        "description": "Header for meal types"
+    },
+    
+    "breakfast": "Breakfast",
+    "@breakfast": {
+        "description": "Breakfast meal type"
+    },
+    
+    "lunch": "Lunch",
+    "@lunch": {
+        "description": "Lunch meal type"
+    },
+    
+    "dinner": "Dinner",
+    "@dinner": {
+        "description": "Dinner meal type"
+    },
+    
+    "snacks": "Snacks",
+    "@snacks": {
+        "description": "Snacks meal type"
+    },
+    
+    "nutritionGoals": "Nutrition Goals",
+    "@nutritionGoals": {
+        "description": "Title for nutrition goals section"
+    },
+    
+    "dailyCalorieGoal": "Daily Calorie Goal",
+    "@dailyCalorieGoal": {
+        "description": "Label for daily calorie goal setting"
+    },
+    
+    "save": "Save",
+    "@save": {
+        "description": "Save button label"
+    },
+    
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Cancel button label"
+    },
+    
+    "loading": "Loading...",
+    "@loading": {
+        "description": "Loading indicator text"
+    },
+    
+    "error": "Error",
+    "@error": {
+        "description": "Generic error message"
+    },
+    
+    "success": "Success",
+    "@success": {
+        "description": "Generic success message"
+    },
+    
+    "state": "State",
+    "@state": {
+        "description": "Label for state selection"
+    },
+    
+    "region": "Region",
+    "@region": {
+        "description": "Label for region selection"
+    },
+    
+    "localCuisine": "Local Cuisine",
+    "@localCuisine": {
+        "description": "Label for local cuisine section"
+    }
+}

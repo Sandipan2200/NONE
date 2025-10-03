@@ -1,0 +1,158 @@
+{
+    "@@locale": "hi",
+    
+    "appTitle": "पोषण ऐप",
+    "@appTitle": {
+        "description": "The title of the application"
+    },
+    
+    "dailyTracker": "दैनिक ट्रैकर",
+    "@dailyTracker": {
+        "description": "Title for the daily tracking screen"
+    },
+    
+    "profile": "प्रोफ़ाइल",
+    "@profile": {
+        "description": "Title for the profile screen"
+    },
+    
+    "settings": "सेटिंग्स",
+    "@settings": {
+        "description": "Title for the settings screen"
+    },
+    
+    "addFood": "भोजन जोड़ें",
+    "@addFood": {
+        "description": "Title for the add food screen"
+    },
+    
+    "calories": "कैलोरी",
+    "@calories": {
+        "description": "Label for calories"
+    },
+    
+    "protein": "प्रोटीन",
+    "@protein": {
+        "description": "Label for protein"
+    },
+    
+    "carbs": "कार्बोहाइड्रेट",
+    "@carbs": {
+        "description": "Label for carbohydrates"
+    },
+    
+    "fat": "वसा",
+    "@fat": {
+        "description": "Label for fat"
+    },
+    
+    "todaysProgress": "आज की प्रगति",
+    "@todaysProgress": {
+        "description": "Label for today's progress section"
+    },
+    
+    "languageSettings": "भाषा सेटिंग्स",
+    "@languageSettings": {
+        "description": "Title for language settings"
+    },
+    
+    "selectLanguage": "भाषा चुनें",
+    "@selectLanguage": {
+        "description": "Label for language selection"
+    },
+    
+    "english": "अंग्रेज़ी",
+    "@english": {
+        "description": "Name of English language"
+    },
+    
+    "hindi": "हिंदी",
+    "@hindi": {
+        "description": "Name of Hindi language"
+    },
+    
+    "tamil": "तमिल",
+    "@tamil": {
+        "description": "Name of Tamil language"
+    },
+    
+    "telugu": "तेलुगु",
+    "@telugu": {
+        "description": "Name of Telugu language"
+    },
+    
+    "mealTypes": "भोजन के प्रकार",
+    "@mealTypes": {
+        "description": "Header for meal types"
+    },
+    
+    "breakfast": "नाश्ता",
+    "@breakfast": {
+        "description": "Breakfast meal type"
+    },
+    
+    "lunch": "दोपहर का भोजन",
+    "@lunch": {
+        "description": "Lunch meal type"
+    },
+    
+    "dinner": "रात का खाना",
+    "@dinner": {
+        "description": "Dinner meal type"
+    },
+    
+    "snacks": "नाश्ता",
+    "@snacks": {
+        "description": "Snacks meal type"
+    },
+    
+    "nutritionGoals": "पोषण लक्ष्य",
+    "@nutritionGoals": {
+        "description": "Title for nutrition goals section"
+    },
+    
+    "dailyCalorieGoal": "दैनिक कैलोरी लक्ष्य",
+    "@dailyCalorieGoal": {
+        "description": "Label for daily calorie goal setting"
+    },
+    
+    "save": "सहेजें",
+    "@save": {
+        "description": "Save button label"
+    },
+    
+    "cancel": "रद्द करें",
+    "@cancel": {
+        "description": "Cancel button label"
+    },
+    
+    "loading": "लोड हो रहा है...",
+    "@loading": {
+        "description": "Loading indicator text"
+    },
+    
+    "error": "त्रुटि",
+    "@error": {
+        "description": "Generic error message"
+    },
+    
+    "success": "सफलता",
+    "@success": {
+        "description": "Generic success message"
+    },
+    
+    "state": "राज्य",
+    "@state": {
+        "description": "Label for state selection"
+    },
+    
+    "region": "क्षेत्र",
+    "@region": {
+        "description": "Label for region selection"
+    },
+    
+    "localCuisine": "स्थानीय व्यंजन",
+    "@localCuisine": {
+        "description": "Label for local cuisine section"
+    }
+}

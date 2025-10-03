@@ -1,0 +1,158 @@
+{
+    "@@locale": "ta",
+    
+    "appTitle": "ஊட்டச்சத்து செயலி",
+    "@appTitle": {
+        "description": "The title of the application"
+    },
+    
+    "dailyTracker": "தினசரி கண்காணிப்பு",
+    "@dailyTracker": {
+        "description": "Title for the daily tracking screen"
+    },
+    
+    "profile": "சுயவிவரம்",
+    "@profile": {
+        "description": "Title for the profile screen"
+    },
+    
+    "settings": "அமைப்புகள்",
+    "@settings": {
+        "description": "Title for the settings screen"
+    },
+    
+    "addFood": "உணவு சேர்க்க",
+    "@addFood": {
+        "description": "Title for the add food screen"
+    },
+    
+    "calories": "கலோரிகள்",
+    "@calories": {
+        "description": "Label for calories"
+    },
+    
+    "protein": "புரதம்",
+    "@protein": {
+        "description": "Label for protein"
+    },
+    
+    "carbs": "கார்போஹைட்ரேட்",
+    "@carbs": {
+        "description": "Label for carbohydrates"
+    },
+    
+    "fat": "கொழுப்பு",
+    "@fat": {
+        "description": "Label for fat"
+    },
+    
+    "todaysProgress": "இன்றைய முன்னேற்றம்",
+    "@todaysProgress": {
+        "description": "Label for today's progress section"
+    },
+    
+    "languageSettings": "மொழி அமைப்புகள்",
+    "@languageSettings": {
+        "description": "Title for language settings"
+    },
+    
+    "selectLanguage": "மொழியை தேர்வு செய்க",
+    "@selectLanguage": {
+        "description": "Label for language selection"
+    },
+    
+    "english": "ஆங்கிலம்",
+    "@english": {
+        "description": "Name of English language"
+    },
+    
+    "hindi": "இந்தி",
+    "@hindi": {
+        "description": "Name of Hindi language"
+    },
+    
+    "tamil": "தமிழ்",
+    "@tamil": {
+        "description": "Name of Tamil language"
+    },
+    
+    "telugu": "தெலுங்கு",
+    "@telugu": {
+        "description": "Name of Telugu language"
+    },
+    
+    "mealTypes": "உணவு வகைகள்",
+    "@mealTypes": {
+        "description": "Header for meal types"
+    },
+    
+    "breakfast": "காலை உணவு",
+    "@breakfast": {
+        "description": "Breakfast meal type"
+    },
+    
+    "lunch": "மதிய உணவு",
+    "@lunch": {
+        "description": "Lunch meal type"
+    },
+    
+    "dinner": "இரவு உணவு",
+    "@dinner": {
+        "description": "Dinner meal type"
+    },
+    
+    "snacks": "சிற்றுண்டி",
+    "@snacks": {
+        "description": "Snacks meal type"
+    },
+    
+    "nutritionGoals": "ஊட்டச்சத்து இலக்குகள்",
+    "@nutritionGoals": {
+        "description": "Title for nutrition goals section"
+    },
+    
+    "dailyCalorieGoal": "தினசரி கலோரி இலக்கு",
+    "@dailyCalorieGoal": {
+        "description": "Label for daily calorie goal setting"
+    },
+    
+    "save": "சேமி",
+    "@save": {
+        "description": "Save button label"
+    },
+    
+    "cancel": "ரத்து செய்",
+    "@cancel": {
+        "description": "Cancel button label"
+    },
+    
+    "loading": "ஏற்றுகிறது...",
+    "@loading": {
+        "description": "Loading indicator text"
+    },
+    
+    "error": "பிழை",
+    "@error": {
+        "description": "Generic error message"
+    },
+    
+    "success": "வெற்றி",
+    "@success": {
+        "description": "Generic success message"
+    },
+    
+    "state": "மாநிலம்",
+    "@state": {
+        "description": "Label for state selection"
+    },
+    
+    "region": "பகுதி",
+    "@region": {
+        "description": "Label for region selection"
+    },
+    
+    "localCuisine": "உள்ளூர் உணவு",
+    "@localCuisine": {
+        "description": "Label for local cuisine section"
+    }
+}
